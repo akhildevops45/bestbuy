@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Example JUnit4 Unit Test,bestbuy.model,GreetingModel,7,79,5,9,0,8,4,10,0,7
+Example JUnit4 Unit Test,bestbuy,UpdateGreeting,0,16,0,0,0,6,0,3,0,3
+Example JUnit4 Unit Test,bestbuy,RemoveGreeting,0,12,0,0,0,5,0,2,0,2
+Example JUnit4 Unit Test,bestbuy,GetGreeting,0,12,0,0,0,4,0,2,0,2
+Example JUnit4 Unit Test,bestbuy,CreateGreeting,0,20,0,0,0,7,0,2,0,2
+Example JUnit4 Unit Test,bestbuy,ListGreetings,0,10,0,0,0,4,0,2,0,2
+Example JUnit4 Unit Test,bestbuy.common,RandomUuidSupplier,0,5,0,0,0,2,0,2,0,2

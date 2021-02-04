@@ -1,0 +1,7 @@
+bestbuy/UpdateGreeting.class
+bestbuy/CreateGreeting.class
+bestbuy/model/GreetingModel.class
+bestbuy/RemoveGreeting.class
+bestbuy/ListGreetings.class
+bestbuy/common/RandomUuidSupplier.class
+bestbuy/GetGreeting.class

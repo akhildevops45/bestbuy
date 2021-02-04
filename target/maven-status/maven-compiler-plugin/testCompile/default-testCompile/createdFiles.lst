@@ -1,0 +1,7 @@
+bestbuy/RemoveGreetingTest.class
+bestbuy/common/RandomUuidSupplierTest.class
+bestbuy/UpdateGreetingTest.class
+bestbuy/CreateGreetingTest.class
+bestbuy/model/GreetingModelTest.class
+bestbuy/GetGreetingTest.class
+bestbuy/ListGreetingsTest.class
